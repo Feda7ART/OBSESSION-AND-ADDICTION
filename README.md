@@ -1,4 +1,5 @@
-# DEPI Graduation Project: **Obsession and Addiction**
+# DEPI Graduation Project
+*Obsession and Addiction*
 ---
 ## Project Overview
 This project aims to raise awareness about the negative effects of excessive social media use. It highlights issues such as electronic blackmail and provides tips for safer and more beneficial use of social media.
